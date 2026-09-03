@@ -1,3 +1,3 @@
 # MATRIX
 MATRIX cmd
-sudo sed -i '/cdrom/s/^/#/' /etc/apt/sources.list && sudo apt update
+sudo apt install -y python3 python3-pip python3-tk
